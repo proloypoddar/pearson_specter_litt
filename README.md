@@ -91,7 +91,7 @@ A production-grade, advanced legal document processing and draft generation syst
    ```
 
 4. **Review**:
-   Open [http://localhost:3000](http://localhost:3000) in your browser. Use the **"Load Sample"** button in the Workspace for an immediate end-to-end demonstration.
+   Open[ [PSL.AI](https://pearson-specter-litt-puce.vercel.app/) ]in your browser. Use the **"Load Sample"** button in the Workspace for an immediate end-to-end demonstration.
 
 ---
 
